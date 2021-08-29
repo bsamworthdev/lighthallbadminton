@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-04-04 03:51:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-04-04 03:51:06 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 18.231.98.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+BuiltWith/1.0;++http://builtwith.com/biup)+Chrome/74.0.3729.131+Safari/537.36 - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1253 426 374
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-04-04 06:17:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-04-04 06:17:58 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 209.17.96.122 Mozilla/5.0+(compatible;+Nimbostratus-Bot/v1.3.2;+http://cloudsystemnetworks.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2661 164 359
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-04-04 18:36:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-04-04 18:36:36 W3SVC1536 JASMINE 143.95.251.7 GET /js/tc.js - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 182 359
+2020-04-04 18:36:36 W3SVC1536 JASMINE 143.95.251.7 GET /dede1/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 189 328
+2020-04-04 18:36:36 W3SVC1536 JASMINE 143.95.251.7 GET /dede2/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 189 343
+2020-04-04 18:36:37 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 184 281
+2020-04-04 18:36:40 W3SVC1536 JASMINE 143.95.251.7 GET /public/simpleboot/css/simplebootadmin.css - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 215 2734
+2020-04-04 18:43:54 W3SVC1536 JASMINE 143.95.251.7 GET /dede_houtai/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 195 281
+2020-04-04 18:43:54 W3SVC1536 JASMINE 143.95.251.7 GET /dede3/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 189 281
+2020-04-04 18:43:58 W3SVC1536 JASMINE 143.95.251.7 GET /dede/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 188 281
+2020-04-04 18:44:04 W3SVC1536 JASMINE 143.95.251.7 GET /dede_ht/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 191 281
+2020-04-04 18:44:16 W3SVC1536 JASMINE 143.95.251.7 GET /statics/css/crop.css - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 194 281
+2020-04-04 18:47:16 W3SVC1536 JASMINE 143.95.251.7 GET /js/index.js - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 185 265
+2020-04-04 18:55:26 W3SVC1536 JASMINE 143.95.251.7 GET /admin123/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 192 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-04-04 19:24:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-04-04 19:24:55 W3SVC1536 JASMINE 143.95.251.7 GET /admin/login.php - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 189 296
+2020-04-04 19:24:59 W3SVC1536 JASMINE 143.95.251.7 GET /FCKeditor/fckconfig.js - 80 - 39.101.205.97 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 196 203

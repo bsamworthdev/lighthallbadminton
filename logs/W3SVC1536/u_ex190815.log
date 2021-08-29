@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 00:42:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 00:42:02 W3SVC1536 JASMINE 143.95.251.7 HEAD /www.zip - 80 - 185.206.225.233 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:54.0)+Gecko/20100101+Firefox/54.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 264 312
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 02:04:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 02:04:18 W3SVC1536 JASMINE 143.95.251.7 HEAD /dump.zip - 80 - 185.206.225.233 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:54.0)+Gecko/20100101+Firefox/54.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 265 281
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 03:27:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 03:27:31 W3SVC1536 JASMINE 143.95.251.7 HEAD /backup.zip - 80 - 185.206.225.233 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:54.0)+Gecko/20100101+Firefox/54.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 267 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 03:47:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 03:47:24 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 54.36.149.42 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 204 109
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 06:11:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 06:11:12 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 180.76.15.153 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1253 245 468
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 07:33:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 07:33:22 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 66.249.69.201 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 257 140
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 08:06:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 08:06:00 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 8.28.16.254 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2661 218 312
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 08:37:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 08:37:49 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 178.63.26.114 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 191 218
+2019-08-15 08:37:51 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 178.63.26.114 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 5680 378 140
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 13:31:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 13:31:58 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 157.55.39.214 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2823 308 124
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 21:47:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 21:47:47 W3SVC1536 JASMINE 143.95.251.7 HEAD /site.zip - 80 - 185.206.225.28 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:54.0)+Gecko/20100101+Firefox/54.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 265 296
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-08-15 23:31:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-08-15 23:31:56 W3SVC1536 JASMINE 143.95.251.7 HEAD /web.zip - 80 - 185.206.225.28 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:54.0)+Gecko/20100101+Firefox/54.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 264 265

@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-03-23 01:08:45
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-03-23 01:08:45 W3SVC1536 JASMINE 143.95.251.7 GET /.env - 80 - 13.90.18.234 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 178 171
+2020-03-23 01:08:47 W3SVC1536 JASMINE 143.95.251.7 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 13.90.18.234 python-requests/2.23.0 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 263 46
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-03-23 05:12:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-03-23 05:12:46 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 216.244.66.195 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 250 125
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-03-23 05:34:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-03-23 05:34:10 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 216.244.66.195 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2661 240 437
+2020-03-23 05:35:08 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 169.197.108.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1234 235 109

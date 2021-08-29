@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 00:21:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 00:21:50 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 92.118.160.9 NetSystemsResearch+studies+the+availability+of+various+services+across+the+internet.+Our+website+is+netsystemsresearch.com - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2661 205 359
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 07:10:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 07:10:53 W3SVC1536 JASMINE 143.95.251.7 GET /.env - 80 - 45.86.202.30 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 261 312
+2021-07-13 07:14:38 W3SVC1536 JASMINE 143.95.251.7 POST / - 80 - 45.86.202.30 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1234 347 312
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 08:12:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 08:12:25 W3SVC1536 JASMINE 143.95.251.7 GET /wp-content/plugins/upspy/ - 80 - 77.247.127.149 Python-urllib/2.7 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1424 171 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 09:17:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 09:16:59 W3SVC1536 JASMINE 143.95.251.7 GET /old/wp-admin/ - 80 - 162.241.253.165 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.97+Safari/537.36 http://lighthallbadminton.co.uk.jasmine.arvixe.com/ lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 285 218
+2021-07-13 09:22:17 W3SVC1536 JASMINE 143.95.251.7 GET /wp/wp-admin/ - 80 - 89.46.105.153 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.97+Safari/537.36 http://lighthallbadminton.co.uk.jasmine.arvixe.com/ lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 284 140
+2021-07-13 09:24:57 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 142.93.246.223 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://www.majestic12.co.uk/bot.php?+) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 341 62
+2021-07-13 09:25:10 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 142.93.246.223 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://www.majestic12.co.uk/bot.php?+) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1234 331 233
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 09:53:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 09:53:36 W3SVC1536 JASMINE 143.95.251.7 GET /content.php - 80 - 195.133.40.201 Python-urllib/2.7 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1424 158 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 10:49:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 10:49:48 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 128.1.248.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1234 235 359
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 11:10:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 11:10:11 W3SVC1536 JASMINE 143.95.251.7 GET /wp-content/plugins/upspy/ - 80 - 77.247.127.149 Python-urllib/2.7 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1424 171 124
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 12:11:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 12:11:11 W3SVC1536 JASMINE 143.95.251.7 GET /wordpress/wp-admin/ - 80 - 72.167.190.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.97+Safari/537.36 http://lighthallbadminton.co.uk.jasmine.arvixe.com/ lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 291 187
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2021-07-13 12:55:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-13 12:55:27 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 157.230.94.176 rogerbot/1.2+(https://moz.com/help/guides/moz-procedures/what-is-rogerbot,+rogerbot-crawler+aardwolf-production-crawler-53@moz.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 393 218
+2021-07-13 12:55:39 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 157.230.94.176 rogerbot/1.2+(https://moz.com/help/guides/moz-procedures/what-is-rogerbot,+rogerbot-crawler+aardwolf-production-crawler-53@moz.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 1234 383 234

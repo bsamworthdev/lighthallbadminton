@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 00:58:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 00:58:30 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 213.122.76.84 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 http://www.lighthallbadminton.co.uk/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2739 492 593
+2018-07-12 00:58:30 W3SVC1536 JASMINE 143.95.251.7 GET /style.css - 80 - 213.122.76.84 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 754 441 171
+2018-07-12 00:58:30 W3SVC1536 JASMINE 143.95.251.7 GET /Images/Facebook.png - 80 - 213.122.76.84 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2400 480 140
+2018-07-12 00:58:30 W3SVC1536 JASMINE 143.95.251.7 GET /Images/badminton_photo2.jpg - 80 - 213.122.76.84 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 77893 488 515
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 09:34:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 09:34:50 W3SVC1536 JASMINE 143.95.251.7 GET /robots.txt - 80 - 54.36.150.30 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 204 312
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 14:31:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 14:31:29 W3SVC1536 JASMINE 143.95.251.7 HEAD /plus/img/wbg.gif - 80 - 115.199.99.115 - - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 111 624
+2018-07-12 14:31:29 W3SVC1536 JASMINE 143.95.251.7 HEAD /js/close.gif - 80 - 115.199.99.115 - - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 160 107 516
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 15:06:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 15:06:21 W3SVC1536 JASMINE 143.95.251.7 POST /blog/xmlrpc.php - 80 - 46.183.218.71 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.6;+fr;+rv:1.9.2.8)+Gecko/20100722+Firefox/3.6.8 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 681 234
+2018-07-12 15:06:21 W3SVC1536 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 46.183.218.71 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.6;+fr;+rv:1.9.2.8)+Gecko/20100722+Firefox/3.6.8 - lighthallbadminton.co.uk.jasmine.arvixe.com 404 0 2 1405 676 218
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 19:56:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 19:56:32 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 82.35.213.206 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.lighthallbadminton.co.uk/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2739 458 250
+2018-07-12 19:56:32 W3SVC1536 JASMINE 143.95.251.7 GET /style.css - 80 - 82.35.213.206 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 754 407 140
+2018-07-12 19:56:32 W3SVC1536 JASMINE 143.95.251.7 GET /Images/Facebook.png - 80 - 82.35.213.206 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2400 460 171
+2018-07-12 19:56:33 W3SVC1536 JASMINE 143.95.251.7 GET /Images/badminton_photo2.jpg - 80 - 82.35.213.206 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://lighthallbadminton.co.uk.jasmine.arvixe.com/index.html lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 77893 468 687
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-07-12 23:39:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-07-12 23:39:42 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 54.36.148.148 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2739 204 234

@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-28 04:46:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-12-28 04:46:39 W3SVC1536 JASMINE 143.95.251.7 GET / - 80 - 209.17.97.42 Mozilla/5.0+(compatible;+Nimbostratus-Bot/v1.3.2;+http://cloudsystemnetworks.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2661 164 249
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-28 11:12:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-12-28 11:12:09 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 92.237.235.14 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.0.3+Safari/605.1.15 http://www.lighthallbadminton.co.uk/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 64 0 442 249
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-28 13:33:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-12-28 13:33:52 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 158.69.225.37 Mozilla/5.0+(compatible;+Dataprovider.com) - lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 5699 154 140
+2019-12-28 13:34:07 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 51.77.246.204 Mozilla/5.0+(compatible;+Dataprovider.com) http://www.lighthallbadminton.co.uk/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 64 0 396 156
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-28 17:10:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-12-28 17:10:30 W3SVC1536 JASMINE 143.95.251.7 GET /index.html - 80 - 92.237.235.14 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.0.3+Safari/605.1.15 http://www.lighthallbadminton.co.uk/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 2823 442 234
+2019-12-28 17:10:30 W3SVC1536 JASMINE 143.95.251.7 GET /style.css - 80 - 92.237.235.14 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.0.3+Safari/605.1.15 http://lighthallbadminton.co.uk.jasmine.arvixe.com/ lighthallbadminton.co.uk.jasmine.arvixe.com 200 0 0 754 381 140
